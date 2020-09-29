@@ -1,5 +1,5 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
 
 def natal(request):
-    return HttpResponse("<HTML><title>Feriado de Natal</title><body><center><h1>Não é natal.</h1></center></body>")
+    return render(request, 'natal.html')
