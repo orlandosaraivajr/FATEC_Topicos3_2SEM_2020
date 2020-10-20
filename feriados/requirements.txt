@@ -1,5 +1,4 @@
 appdirs==1.4.3
-asgiref==3.2.10
 backcall==0.2.0
 CacheControl==0.12.6
 certifi==2019.11.28
@@ -9,11 +8,12 @@ contextlib2==0.6.0
 decorator==4.4.2
 distlib==0.3.0
 distro==1.4.0
-Django==2.2.10
+Django==2.2
+django-jazzmin==2.2.11
 html5lib==1.0.1
 idna==2.8
 ipaddr==2.2.0
-ipdb==0.13.4
+ipdb==0.13.3
 ipython==7.18.1
 ipython-genutils==0.2.0
 jedi==0.17.2
